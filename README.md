@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1239954582.svg)](https://doi.org/10.5281/zenodo.20210714)
+
 # Webcam-Based Saccade and Anti-Saccade Eye Tracking in MATLAB
 
 MATLAB implementation of **Saccade** and **Anti-Saccade** eye movement tasks using a standard webcam and computer vision algorithms.
