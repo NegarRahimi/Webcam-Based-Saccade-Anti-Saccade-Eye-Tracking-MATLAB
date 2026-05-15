@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1239954582.svg)](https://doi.org/10.5281/zenodo.20210714)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20210715.svg)](https://doi.org/10.5281/zenodo.20210715)
 
 # Webcam-Based Saccade and Anti-Saccade Eye Tracking in MATLAB
 
