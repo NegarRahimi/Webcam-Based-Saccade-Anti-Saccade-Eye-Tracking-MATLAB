@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Webcam-Based Saccade and Anti-Saccade Eye Tracking in MATLAB"
+authors:
+  - family-names: Rahimi
+    given-names: Negar
+version: 1.0.0
+date-released: 2026-05-15
+repository-code: "https://github.com/NegarRahimi/Webcam-Based-Saccade-Anti-Saccade-Eye-Tracking-MATLAB"
+license: "MIT"
